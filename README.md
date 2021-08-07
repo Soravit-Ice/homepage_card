@@ -1,4 +1,2 @@
-# homepage_card
-
-Homepage Card
+# Homepage_card
 HTML + CSS only 
